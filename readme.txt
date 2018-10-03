@@ -5,7 +5,7 @@ UCB1.py-UCB1
 median_elimination_algo.py-Median Eliminaton Algorithm
 median_elimination_quick_sort.py-quick select sort calculation of median
 
-
+####FOR ENVIRON, OPTION AND INTRAOPTION#####
 The environment for this task is the following grid world. The cells of the grid correspond
 to the states of the environment. There are four rooms numbered: 1, 2, 3 and 4. The room
 number 1 is the one with ‘HALLWAYS’ written in it. The second room is on the right to
