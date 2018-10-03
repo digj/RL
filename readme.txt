@@ -1,4 +1,4 @@
-Algorithm files contain all the algorithm.
+Algorithm files contain all the algorithms.
 plotting files contain all the graphs
 experiment testbed contains the Bandit generator but could not interface the test bed with algorithm files due to lack of time
 q1.py-epsilon greedy
